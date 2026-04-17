@@ -166,6 +166,8 @@ ano_base = st.sidebar.selectbox(
     tabela_anos, index=None, placeholder="Defina o ano"
 )
 
+st.title("DADOS FICTICIOS PARA SIMULAÇÃO")
+
 
 if ano_base:
     try:

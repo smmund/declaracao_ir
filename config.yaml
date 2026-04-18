@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    emund:
+      email: edumund27@yahoo.com.br
+      logged_in: False
+      name: Carlos Eduardo
+      password: edumund27
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
+  
